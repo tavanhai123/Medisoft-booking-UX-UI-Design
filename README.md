@@ -28,6 +28,11 @@ Các tài liệu chính và liên kết prototype nằm trong repository này:
 - Phương pháp: Design Thinking (Empathize → Define → Ideate → Prototype → Test) kết hợp Agile (sprint tuần).  
 - Công cụ: Figma, Miro, Draw.io, Google Forms/Sheets, Word/Excel.
 
+## Demo giao diện (Preview)
+![Medisoft UI Preview](image_demo/1.png)
+![Medisoft UI Preview](image_demo/2.png)
+![Medisoft UI Preview](image_demo/3.png)
+
 ## Ghi chú bản quyền & credit
 Sản phẩm thực hiện bởi **Nhóm 01_Medisoft**. Repo phục vụ mục đích **portfolio và học tập**.
 
